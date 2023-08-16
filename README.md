@@ -1,3 +1,10 @@
+# SOBRE O PROJETO
+
+Este projeto foi criado em um ambiente de estudos a partir das aulas da DIO, e aplicados na prática. 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
